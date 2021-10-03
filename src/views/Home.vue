@@ -1,5 +1,5 @@
 <script setup>
-import VnList from '@/components/VnList'
+import VnList from '@/components/Vn_List'
 </script>
 
 <template>

@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from '@vue/reactivity'
-import VnListEntry from '@/components/VnListEntry'
+import VnListEntry from '@/components/Vn_List_Entry'
 
 const visual_novels = ref([
 	{
